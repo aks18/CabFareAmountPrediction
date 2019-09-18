@@ -59,3 +59,16 @@ working directory correctly before running the script.
 Built on **R 3.4.3**
 There should be no errors as the code has been tested at least 5 times. If any error arises, it has to be
 because of incorrect file paths.
+
+# Some Insights & Plots from the Project
+
+![Pair Scatterplot of the numerical variables in the training set](https://github.com/aks18/CabFareAmountPrediction/blob/master/Plots/Screenshot%20from%202019-09-18%2015-21-44.png)
+
+### Final Regression Results
+
+Basic Neural Network Predictions
+![Basic Neural Network Predictions](https://github.com/aks18/CabFareAmountPrediction/blob/master/Plots/BasicNNPredictions.png)
+
+Deep Neural Network - Overfitting Predictions
+![Deep Neural Network - Overfitting Predictions](https://github.com/aks18/CabFareAmountPrediction/blob/master/Plots/OverfittingNNPredictions.png)
+
